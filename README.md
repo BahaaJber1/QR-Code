@@ -2,6 +2,9 @@
 
 <img width="637" height="57" alt="image" src="https://github.com/user-attachments/assets/953b2741-0dce-4529-829e-5bea23473c68" />
 
+<img width="228" height="225" alt="image" src="https://github.com/user-attachments/assets/0cc4a1eb-3d47-4938-a982-5ab6c123b76e" />
+
+
 
 A simple Node.js command-line application that generates a QR code image from a user-provided URL and saves both the QR code and the URL to files.
 
